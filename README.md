@@ -1,1 +1,1 @@
-# metodos-computacionales-1_JoseGutierrez_JuanaGranados
+# metodos-computacionales-1
